@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/sellesbakk/Learn-Ms/_apis/build/status/lego290.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/sellesbakk/Learn-Ms/_build/latest?definitionId=7&branchName=master)
 
 # Contributing
 
